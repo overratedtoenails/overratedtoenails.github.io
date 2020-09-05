@@ -4,9 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Devendra Garware. I have the following qualities:
 
-- I rock a great mustache
+- I am a passionate triathlete
+- I can eat 3 12" Pizza in one sitting
 - I'm extremely loyal to my family
 
 What else do you need?
