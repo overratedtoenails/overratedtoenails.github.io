@@ -6,25 +6,27 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Dev's Homepage
 
 # Your name to show in the footer
-author: Some Person
+author: Devendra Garware
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
+  Blog Archive: ""
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Ironman: "https://ironman.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avataaars.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -76,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "DGarware.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
