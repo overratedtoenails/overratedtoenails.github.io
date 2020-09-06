@@ -48,8 +48,6 @@ By July it was starting to become clear that travelling to EU was no longer goin
 
 So unlike other events where I am only a participant, for IronWill I was also the organiser. This meant the added pressure of not just finishing my first Iron distance triathlon, but also organising an event which covered 226km. When I floated this idea, thankfully and to my relief, it received tremendous support from my friends and family. Over 30 people offered to volunteer in anyway necessary to help me achieve this goal. Although it took some effort, I do believe that the meticulous planning we did by trying to cover each and every aspect of the race helped tremendously to get me over the finish line.
 
-###  
-
 ### **Pre-Race**
 
 I took Thursday and Friday off from work to start preparing myself mentally to get through Saturday (Raceday). Thursday morning I woke up early as usual, went out for a 45 min easy run, gave an interview for my local radio then finished making my transition boxes, checking on the bike and all other pre-race checks. In many ways this was good because it kept me busy all day. Friday was a different story all together. My only job on Friday was to hydrate and rest. This was difficult as having nothing to do meant that I kept thinking and overthinking about Saturday. So in the afternoon I decided to meet my coach and some friends over a cup of coffee. This helped and after that I went into an almost Zen mode. I had my carb heavy meal at 7pm, saw a lovely video made by all my friends and family wishing me the very best and then we to bed at 8pm. To my surprise I dozed off by 8.30pm and had a good 6+ hours of uninterrupted sleep. 
@@ -61,20 +59,15 @@ I woke up without an alarm by 3am, had my breakfast early enough to give my syst
 We were aiming for a 6.30 to 6.45 am start depending on the sun as the dam where I was swimming needed us to trek 300 meter through some rice fields and we didn’t want to do that trek without sunlight. There was a local news channel that wanted to cover my solo attempt and thus had to speak a few words with them (although at that moment I didn’t want to). Having finished speaking to the reporter we decided to start immediately. Thus without much further ado I took the plunge at 6.36am. The funny thing about an Iron distance triathlon is that the swim happens so early in the race and is relatively such a short part of your day that by the end of it all you almost forget that it even happened. I went it with a 1.30hr expected finish time but the swim went better than I expected and I finished in 1.17hr. This is again where my upper body strength training helped. I used all my upper body strength for this knowing that for the rest of the day I didn’t need to use my shoulders or arms that much. I had to pee during the swim, so I know the hydration part was working well.
 
 **Nutrition:** One packet of carbonance in 700ml water prior to the swim. 
-
 **Time: 1 hr:17min:36sec**
 
-###  
 
-**T1**
+### **T1**
 
 Straight from the swim ran through the fields, into my car to take me to the main road where my bike was parked. I changed into my cycling gear in the car. So everything was pretty straightforward and as planned.
 
 **Nutrition:** One GU Roctane Gel, one salt tablet and one banana, 250 ml Gatorade
-
-###  **Time: 8min:17sec**
-
-###  
+**Time: 8min:17sec**
 
 ### **Cycle [180km]**
 
@@ -82,32 +75,16 @@ It was nice and sunny up until that moment. As soon as I sat on the bike, it sta
 
 I do think my nutrition and hydration was spot on (stopped twice to pee) and finished my bike leg without any cramps. My target pace for a wet weather race was sub 6hr:15min so all in all, considering the conditions, I think the bike leg was the strongest part of my race. All my training came good.
 
-###  
-
-Nutrition: Five GU Roctane Gels, Six salt tablets and 5 bananas, Approx. 2.6 to 2.8 litre Gatorade.
-
-###  
-
-### **Time: 6hr:00min:56sec**
-
-###  
+**Nutrition:** Five GU Roctane Gels, Six salt tablets and 5 bananas, Approx. 2.6 to 2.8 litre Gatorade.
+**Time: 6hr:00min:56sec**
 
 ### **T2**
-
-###  
-
 Again no complaints did everything as planned. As I was soaking wet changed all my clothes. It didn’t matter much because it was still raining and in 2km I was completely drenched again. I also peed once again before going off on the run.
 
-###  
-
 **Nutrition:** One GU Roctane Gel, one salt tablet and one banana, 250 ml Gatorade
-
-### **Time: 9min:16sec**
-
-###  
+**Time: 9min:16sec**
 
 ### **Run [42.2km]**
-
 I started my run thinking, all I had to do is finish 42.2 km marathon and I was going to be an Ironman for the rest of my life. I’ve run marathons before and I know how though they are, so I wasn’t under any illusion about the magnitude of the task ahead of me. So I’ve heard, read and been told multiple times that Ironman begins during the second half of the marathon. Thus I wanted to execute a positive split strategy because I had trained for this and knew what to expect from my body till the halfway point. My plan was to finish the first half of the marathon as fast as possible without walking. I am happy that I managed to do this exactly as planned. But by 21km I really had to use the loo from all the bananas I had been eating since morning. I thought of putting it off but was starting to get uncomfortable and had reached a point where I would not have been able to eat or drink anything further without going to the toilet first. Although I know that this is a sign that everything was working well, it did break my momentum. My pace dropped post this loo break and could not pick it up again. In hindsight, I should have gone to the toilet at T2 and will keep this in mind next time I attempt this distance. Also would like to add that by then it finally stopped raining.
 
 My run route was basically 8 loops of 5.2km (balance 600 meters was distance to and from my house to my run route). For the first 4 loops I averaged a steady 6.30 min/km pace without having the need to walk. But finally half way through loop 5, I started doing run-walks. I did not have cramps, nor was I de-hydrated. I was just exhausted. This is my only regret as I like running long distances and before this I had never ever done a run-walk ever in any race or training. I had heard that people walk the Ironman marathon (now I know why) and had secretly promised myself not to walk during my attempt. 
@@ -117,14 +94,11 @@ Getting through the next 15km was probably the toughest thing I have ever done i
 The finish was super special. It was amazing to see all my friends and family cheering for me as I finished. Many of them had been with me through the day and I’ll be eternally thankful to all of them, for without their support I would have probably not finished. At the finish, the only thing going on in my head was, “it’s over, it’s done, I don’t have to run anymore”. It was a sense of relief more than anything else.
 
 **Nutrition:** Four GU Roctane Gels, Five salt tablets, a few Oreos, a few Doritos, Approx. 2.5 litre of Gatorade/Coke/Water.
-
-###  **Time: 5hr:04min:37sec**
-
-###  
+**Time: 5hr:04min:37sec**
+  
 
 ### ***Total Time: 12hr:40min:48sec***
 
-###  
 
 ### **Post-Race**
 
