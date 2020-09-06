@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Body Image from a Man's Perspective"
-date: 2020-07-27 19:48:02 +0530
+date: 2020-08-13 19:48:02 +0530
 comments: true
 categories: 
-- Running
+- Viewpoint
 
 ---
-
-# 
 
 We as men have historically been conditioned to suppress how we feel. The reason many men struggle to talk about anything emotional is that we have historically been encouraged not to.
 
