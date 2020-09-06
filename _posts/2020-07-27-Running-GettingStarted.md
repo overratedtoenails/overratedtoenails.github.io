@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Running - Getting Started"
+date: 2020-07-27 19:48:02 +0530
+comments: true
+categories: 
+- Running
+
+---
+
+# Running – Getting Started
+
+Once you get into running the next thing to focus on is obviously distance and speed. To begin with I always recommend that we forget speed. We'll get to that a little later. First and foremost it is important to learn to run nonstop for hours and hours. This will not happen overnight. You have to work towards this, patience is key. And remember everyone is different, just because someone you know went from 5k to marathon in few months doesn't mean you can do it. We have to understand that being amateurs we have different pressures of work, life, family etc. We are not professional runners and have to balance our running around our real lives. Thus this determines how fast we progress and it's important that we accept this as a reality. Once we understand and accept the life situations we are in, we can then focus on creating a balance between the two. 
+
+**As it is with almost everything in the world, consistency is key.** Don't expect to be able to run long distances if you haven't put the hard work in consistently. I'm not saying that  you have to put hours and hours of training in everyday. **But putting in 45 minutes to an hour of effort on weekdays and slightly longer on the weekend is a must if you are serious about running.** The actual training is as hard or as easy as we make it to be. 
+
+To run longer one thing that I personally recommend is to not stop when out on a run. If you feel breathless then slow down into a slow jog or walk, but don't stop. Keep moving. 
+
+And if you start training consistently, remember the 10% rule. If you ran 2km non stop last week, this week target 2.2km. This is critical. Don't overdo it, 10% gain is plenty as you begin. A few months of this and you'll be able to longer without having the need to stop. It really is that simple, run regularly and be patient, you'll improve slowly. 
+
+## When to focus on Pace
+
+I would say that once you can run 45 mins to 1 hr without having to stop to catch a breath, that's when it's time to start looking at pace. Till then, don't be bothered by runners whizzing past you or your friends posting faster times on Strava. The best part of long distance running is that we all get the same medal as we cross the finish line. But we only get the medal 'if' we finish. If someone is running faster than you remember that there are only two possibilities. One possibility is, that this person is physically much ahead of where you are and thus there's no point in comparing. Or second, keep doing what you are doing and eventually as the kilometres start adding you'll overtake this person who's gone too fast and is now completely exhausted.
+
+## Running – Other Tips
+
+There are other small things that we should give attention to as well while running.
+
+**Form:** For example, form. It is important to have correct form, which includes 165+ cadence, straight spine/head (I see runners who move their neck, shoulders and heads, this will just cause your body to spend excess energy), focus on correct landing (avoid heel strikes). All these can be incorporated into our training without any external help. This is all pretty simple DIY stuff for which there are plenty of YouTube videos out there. 
+
+**Strength Training:** Then there's strength training. When I earlier said 45 mins to 1 hr daily it is not just running. Half of that should be in the gym. Most runners avoid going to the gym because at first glance it is very difficult to correlate between hitting the gym and being able to run faster. But if you think about it anything that strengthens muscles and joints is going to help you with your running. From my own experience I can say that focusing on building muscles, not just legs but a stronger core, back, hips, shoulders,neck and arms will all help you perform longer without getting fatigued. Strength training also has the potential to reduce the risk of injury and improve the biomechanics of running efficiently.
+
+**Fuel :** Then comes nutrition and hydration. Are you eating enough? Are you drinking enough? From my personal experience I have come to a conclusion that there's no general good or bad food as such. It's simple math about calorie intake and expenditure. You have to replace what you are burning or if you want to lose weight then you can be in a slight deficit. This deficit has to be moderate, otherwise you'll not have the energy to perform. About what you eat, as I earlier said there's no good or bad food, but we have to keep in mind certain things. You want your heart to pump all the blood to those parts which are helping you to run and not to your digestive system. Thus eat what will give you the necessary calorie intake but at the same time be easy for digestion. As I mentioned earlier consistency is important to get good at anything. This applies to both your nutrition and hydration. If you want to be a good runner you have to bring this consistency not just in your workouts but also in what you fuel your body with. I won't get into the details of what to eat because this can vary widely from person to person but sticking to simple home cooked meals pre-run and experimenting with different foods while on the run will help you nail down your food strategy.
+
+**Supplement:** Another question I have been asked is supplements. Again, supplements can be simple stuff like vitamins, calcium etc to more hard-core stuff. I don't think for running any kind of supplements help or are needed if your hydration and nutrition from regular food are upto the mark. But if you have dietary restrictions then some supplements might be essential. Consult a sports Nutritionist who would be able to guide you on both diet and supplements.
+
+**Mental Training:** Some beginner runners are physically fit enough to run a certain distance, but they don't have the confidence or mental strength to push themselves farther. So how do you build mental endurance? In many cases, it's simply "mind over matter." A friend of mine shouts the line "shut up legs", I find that both funny and totally useful. Find your line! But also as we earlier discussed, in your initial days of running distract your mind by focusing on a conversation with a running buddy or take a scenic route or listen to music! The most important part of your body for endurance running are not your legs, but your mind. This sport is all about digging deeper when you start feeling that hurt. When you start feeling desperate, exhausted, ready to give up that's when you have to go deep and use your mind muscle, mental stamina or whatever you wish to call it. Just like all muscles even this 'mental muscle' has to be exercised for it to get fitter. The best way is to overrule your mind when it says stop. If your mind says stop now, overrule it and say 200 meters more or till the next crossing. Establish your dominance and your mind will eventually become your biggest ally in running long distances.
+
+**Goal Setting:** Another important part is to stay motivated and the best way to do that is to set goals. Set a long term goal and plenty of short milestones. These goals could be anything right from improving pace, running longer, a specific race, improving heart rate or cadence... literally anything. Or to make it fun you can have a big goal (distance) and along the way milestones for achieving cadence, pace etc. If you have a goal set for every 2/3 weeks, training becomes a lot more focused, goal oriented and thus more interesting. This is very important especially in times like now when most races are cancelled. Also remember it really doesn't matter how small your goal is as long as it keeps you moving.
+
+**Rest Day:** Lastly, take a rest day. This is important. Your body needs a day every now and then to recover. Just take it easy once in a while. Depending on your fitness levels it could be one day of the week or for beginners I recommend a 5+1 cycle, which is 5 days of training and 1 day of rest. If you don't give your body enough time to recover, you'll find yourself regressing and not improving. Also it is important to use the rest day as a rest day. If you are going to be doing other work which involves stress then it's not a rest day. If you consume alcohol and are hungover, it is not a rest day as your body's working overtime. If you eat a lot of not so easy to digest food, it's not a rest day. If you have back to back meetings at work or are driving for hours or are taking your kids to an amusement park, all of these are not rest days. Remember, rest day means giving your body, organs and mind a day off. On the designated rest day, take it easy. Don't go overboard with food or drinks, don't do anything that is stressful for mind or needs a lot of physical activity.
+
+## Running and Boredom
+
+Running long distances can be boring, so sometimes running with others always helps take your mind away from the monotony of the dreaded left right left. A good conversation and you'll be surprised how time flies. 
+
+Another great way to break monotony is to change the route. Running outdoors gives us the option to explore our city/surroundings like never before, if you live in a city where you can run outdoors safely then I strongly recommend you to do this. 
+
+But even something as simple as running clockwise one day and anticlockwise another makes a big difference. One more option is listening to music. This one is especially useful for beginners or even for regular runners on days when you need that extra motivation.
