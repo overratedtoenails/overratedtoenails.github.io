@@ -8,6 +8,7 @@
 # Name of website
 title: Dev's Homepage
 url: "https://dgarware.com"
+permalink: none  # Keep permalink short
 
 # Your name to show in the footer
 author: Devendra Garware
